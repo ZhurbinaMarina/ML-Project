@@ -1,2 +1,2 @@
 # ML-Project
-Design Activities ML | Yandex Academy Intensives | Spring 22/23
+Project activity ML | Yandex Academy Intensives | Spring 22/23
